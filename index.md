@@ -39,8 +39,8 @@ I may update this Privacy Policy from time to time. I will notify users of mater
 
 ## 6. Contact
 For questions or concerns, contact:
-**Aleksandr Lvov**  
-Email: **alex@nomadz.com**
+**Alex Lvov**  
+Email: **aplvov77@gmail.com**
 
 ---
 
@@ -81,6 +81,6 @@ This Agreement shall be governed by the laws of the State of Florida, without re
 
 ## 9. Contact
 For legal questions, please contact:
-**Aleksandr Lvov**  
-Email: **alex@nomadz.com**
+**Alex Lvov**  
+Email: **aplvov77@gmail.com**
 
