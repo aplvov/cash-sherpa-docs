@@ -2,7 +2,7 @@
 
 **Effective Date:** April 6, 2025
 
-Aleksandr Lvov ("I", "my", or "me") operates the Cash Sherpa application, which integrates with QuickBooks Online to provide cash flow analysis and forecasting services for small and medium-sized enterprises.
+Alex Lvov ("I", "my", or "me") operates the Cash Sherpa application, which integrates with QuickBooks Online to provide cash flow analysis and forecasting services for small and medium-sized enterprises.
 
 This Privacy Policy explains how I collect, use, and protect your data when you use the Cash Sherpa app.
 
