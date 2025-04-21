@@ -32,7 +32,7 @@ I do not sell or share your data with third parties.
 All data is encrypted in transit using HTTPS and stored in encrypted databases (AES-256). Refresh tokens and access tokens are stored securely on the server, and never exposed client-side.
 
 ## 4. Your Rights
-You may revoke access to your QuickBooks data at any time via the Intuit app dashboard. You may also request data deletion by contacting me at **alex@nomadz.com**.
+You may revoke access to your QuickBooks data at any time via the Intuit app dashboard. You may also request data deletion by contacting me at **aplvov77@gmail.com**.
 
 ## 5. Changes to This Policy
 I may update this Privacy Policy from time to time. I will notify users of material changes via email or app notification.
